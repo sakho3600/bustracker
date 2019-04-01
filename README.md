@@ -1,16 +1,11 @@
-# projet_2cp_g5
+# BusTracker
+## projet_2cp_g5
+<img align="right" src="https://cdn.2dimensions.com/flare_macbook.png" height="250">
 
-Contribution à la réalisation d’une plateforme de service en ligne pour les usagers des transports en commun 
+BusTracker is a contribution to the creation of an online service platform for public transport users, this application offers real time bus tracking shown on a map with all the lines and stations of the city, The primary goal of BusTracker is to allow its users to see the time is left for the buses to reach their next stations
 
-## Getting Started
+### Getting Started
 
-This project is a starting point for a Flutter application.
+This project is still under development.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Thanks for watching :D
